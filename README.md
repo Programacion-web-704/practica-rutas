@@ -9,3 +9,12 @@ A partir del proyecto actual, generar las siguientes rutas:
     "codigo": "20101272K",
 }
 ```
+
+La respuesta del request debe tener la siguiente estructura:
+```json
+
+{
+    "result": "ok",
+    "message": "el cuerpo del json es válido"
+}
+```
